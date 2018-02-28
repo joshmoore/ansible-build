@@ -1,0 +1,224 @@
+[submodule "openmicroscopy.analysis-tools"]
+	path = openmicroscopy.analysis-tools
+	url = git://github.com/openmicroscopy/ansible-role-analysis-tools
+	branch = master
+[submodule "openmicroscopy.basedeps"]
+	path = openmicroscopy.basedeps
+	url = git://github.com/openmicroscopy/ansible-role-basedeps
+	branch = master
+[submodule "openmicroscopy.cadvisor"]
+	path = openmicroscopy.cadvisor
+	url = git://github.com/openmicroscopy/ansible-role-cadvisor
+	branch = master
+[submodule "openmicroscopy.celery-docker"]
+	path = openmicroscopy.celery-docker
+	url = git://github.com/openmicroscopy/ansible-role-celery-docker
+	branch = master
+[submodule "openmicroscopy.cli-utils"]
+	path = openmicroscopy.cli-utils
+	url = git://github.com/openmicroscopy/ansible-role-cli-utils
+	branch = master
+[submodule "openmicroscopy.debug-dumpallvars"]
+	path = openmicroscopy.debug-dumpallvars
+	url = git://github.com/openmicroscopy/ansible-role-debug-dumpallvars
+	branch = master
+[submodule "openmicroscopy.devspace"]
+	path = openmicroscopy.devspace
+	url = git://github.com/openmicroscopy/ansible-role-devspace
+	branch = master
+[submodule "openmicroscopy.docker"]
+	path = openmicroscopy.docker
+	url = git://github.com/openmicroscopy/ansible-role-docker
+	branch = master
+[submodule "openmicroscopy.docker-slack-notifier"]
+	path = openmicroscopy.docker-slack-notifier
+	url = git://github.com/openmicroscopy/ansible-role-docker-slack-notifier
+	branch = master
+[submodule "openmicroscopy.docker-tools"]
+	path = openmicroscopy.docker-tools
+	url = git://github.com/openmicroscopy/ansible-role-docker-tools
+	branch = master
+[submodule "openmicroscopy.fluentd"]
+	path = openmicroscopy.fluentd
+	url = git://github.com/openmicroscopy/ansible-role-fluentd
+	branch = master
+[submodule "openmicroscopy.haproxy"]
+	path = openmicroscopy.haproxy
+	url = git://github.com/openmicroscopy/ansible-role-haproxy
+	branch = master
+[submodule "openmicroscopy.hosts-populate"]
+	path = openmicroscopy.hosts-populate
+	url = git://github.com/openmicroscopy/ansible-role-hosts-populate
+	branch = master
+[submodule "openmicroscopy.ice"]
+	path = openmicroscopy.ice
+	url = git://github.com/openmicroscopy/ansible-role-ice
+	branch = master
+[submodule "openmicroscopy.java"]
+	path = openmicroscopy.java
+	url = git://github.com/openmicroscopy/ansible-role-java
+	branch = master
+[submodule "openmicroscopy.jekyll-build"]
+	path = openmicroscopy.jekyll-build
+	url = git://github.com/openmicroscopy/ansible-role-jekyll-build
+	branch = master
+[submodule "openmicroscopy.local-accounts"]
+	path = openmicroscopy.local-accounts
+	url = git://github.com/openmicroscopy/ansible-role-local-accounts
+	branch = master
+[submodule "openmicroscopy.logrotate"]
+	path = openmicroscopy.logrotate
+	url = git://github.com/openmicroscopy/ansible-role-logrotate
+	branch = master
+[submodule "openmicroscopy.lvm-partition"]
+	path = openmicroscopy.lvm-partition
+	url = git://github.com/openmicroscopy/ansible-role-lvm-partition
+	branch = master
+[submodule "openmicroscopy.munin"]
+	path = openmicroscopy.munin
+	url = git://github.com/openmicroscopy/ansible-role-munin
+	branch = master
+[submodule "openmicroscopy.munin-node"]
+	path = openmicroscopy.munin-node
+	url = git://github.com/openmicroscopy/ansible-role-munin-node
+	branch = master
+[submodule "openmicroscopy.mysql-backup"]
+	path = openmicroscopy.mysql-backup
+	url = git://github.com/openmicroscopy/ansible-role-mysql-backup
+	branch = master
+[submodule "openmicroscopy.network"]
+	path = openmicroscopy.network
+	url = git://github.com/openmicroscopy/ansible-role-network
+	branch = master
+[submodule "openmicroscopy.network-cloud-interfaces"]
+	path = openmicroscopy.network-cloud-interfaces
+	url = git://github.com/openmicroscopy/ansible-role-network-cloud-interfaces
+	branch = master
+[submodule "openmicroscopy.nfs-mount"]
+	path = openmicroscopy.nfs-mount
+	url = git://github.com/openmicroscopy/ansible-role-nfs-mount
+	branch = master
+[submodule "openmicroscopy.nfs-share"]
+	path = openmicroscopy.nfs-share
+	url = git://github.com/openmicroscopy/ansible-role-nfs-share
+	branch = master
+[submodule "openmicroscopy.nginx"]
+	path = openmicroscopy.nginx
+	url = git://github.com/openmicroscopy/ansible-role-nginx
+	branch = master
+[submodule "openmicroscopy.nginx-proxy"]
+	path = openmicroscopy.nginx-proxy
+	url = git://github.com/openmicroscopy/ansible-role-nginx-proxy
+	branch = master
+[submodule "openmicroscopy.nginx-ssl-selfsigned"]
+	path = openmicroscopy.nginx-ssl-selfsigned
+	url = git://github.com/openmicroscopy/ansible-role-nginx-ssl-selfsigned
+	branch = master
+[submodule "openmicroscopy.omego"]
+	path = openmicroscopy.omego
+	url = git://github.com/openmicroscopy/ansible-role-omego
+	branch = master
+[submodule "openmicroscopy.omero-common"]
+	path = openmicroscopy.omero-common
+	url = git://github.com/openmicroscopy/ansible-role-omero-common
+	branch = master
+[submodule "openmicroscopy.omero-logmonitor"]
+	path = openmicroscopy.omero-logmonitor
+	url = git://github.com/openmicroscopy/ansible-role-omero-logmonitor
+	branch = master
+[submodule "openmicroscopy.omero-python-deps"]
+	path = openmicroscopy.omero-python-deps
+	url = git://github.com/openmicroscopy/ansible-role-omero-python-deps
+	branch = master
+[submodule "openmicroscopy.omero-server"]
+	path = openmicroscopy.omero-server
+	url = git://github.com/openmicroscopy/ansible-role-omero-server
+	branch = master
+[submodule "openmicroscopy.omero-user"]
+	path = openmicroscopy.omero-user
+	url = git://github.com/openmicroscopy/ansible-role-omero-user
+	branch = master
+[submodule "openmicroscopy.omero-web"]
+	path = openmicroscopy.omero-web
+	url = git://github.com/openmicroscopy/ansible-role-omero-web
+	branch = master
+[submodule "openmicroscopy.omero-web-apps"]
+	path = openmicroscopy.omero-web-apps
+	url = git://github.com/openmicroscopy/ansible-role-omero-web-apps
+	branch = master
+[submodule "openmicroscopy.omero-web-runtime"]
+	path = openmicroscopy.omero-web-runtime
+	url = git://github.com/openmicroscopy/ansible-role-omero-web-runtime
+	branch = master
+[submodule "openmicroscopy.openstack-volume-storage"]
+	path = openmicroscopy.openstack-volume-storage
+	url = git://github.com/openmicroscopy/ansible-role-openstack-volume-storage
+	branch = master
+[submodule "openmicroscopy.postgresql"]
+	path = openmicroscopy.postgresql
+	url = git://github.com/openmicroscopy/ansible-role-postgresql
+	branch = master
+[submodule "openmicroscopy.prometheus"]
+	path = openmicroscopy.prometheus
+	url = git://github.com/openmicroscopy/ansible-role-prometheus
+	branch = master
+[submodule "openmicroscopy.prometheus-jmx"]
+	path = openmicroscopy.prometheus-jmx
+	url = git://github.com/openmicroscopy/ansible-role-prometheus-jmx
+	branch = master
+[submodule "openmicroscopy.prometheus-node"]
+	path = openmicroscopy.prometheus-node
+	url = git://github.com/openmicroscopy/ansible-role-prometheus-node
+	branch = master
+[submodule "openmicroscopy.prometheus-postgres"]
+	path = openmicroscopy.prometheus-postgres
+	url = git://github.com/openmicroscopy/ansible-role-prometheus-postgres
+	branch = master
+[submodule "openmicroscopy.python-pydata"]
+	path = openmicroscopy.python-pydata
+	url = git://github.com/openmicroscopy/ansible-role-python-pydata
+	branch = master
+[submodule "openmicroscopy.python-virtualenv-upstream"]
+	path = openmicroscopy.python-virtualenv-upstream
+	url = git://github.com/openmicroscopy/ansible-role-python-virtualenv-upstream
+	branch = master
+[submodule "openmicroscopy.reboot-server"]
+	path = openmicroscopy.reboot-server
+	url = git://github.com/openmicroscopy/ansible-role-reboot-server
+	branch = master
+[submodule "openmicroscopy.redis"]
+	path = openmicroscopy.redis
+	url = git://github.com/openmicroscopy/ansible-role-redis
+	branch = master
+[submodule "openmicroscopy.rsync-server"]
+	path = openmicroscopy.rsync-server
+	url = git://github.com/openmicroscopy/ansible-role-rsync-server
+	branch = master
+[submodule "openmicroscopy.samba-client"]
+	path = openmicroscopy.samba-client
+	url = git://github.com/openmicroscopy/ansible-role-samba-client
+	branch = master
+[submodule "openmicroscopy.selinux-utils"]
+	path = openmicroscopy.selinux-utils
+	url = git://github.com/openmicroscopy/ansible-role-selinux-utils
+	branch = master
+[submodule "openmicroscopy.storage-volume-initialise"]
+	path = openmicroscopy.storage-volume-initialise
+	url = git://github.com/openmicroscopy/ansible-role-storage-volume-initialise
+	branch = master
+[submodule "openmicroscopy.sudoers"]
+	path = openmicroscopy.sudoers
+	url = git://github.com/openmicroscopy/ansible-role-sudoers
+	branch = master
+[submodule "openmicroscopy.system-monitor-agent"]
+	path = openmicroscopy.system-monitor-agent
+	url = git://github.com/openmicroscopy/ansible-role-system-monitor-agent
+	branch = master
+[submodule "openmicroscopy.upgrade-distpackages"]
+	path = openmicroscopy.upgrade-distpackages
+	url = git://github.com/openmicroscopy/ansible-role-upgrade-distpackages
+	branch = master
+[submodule "openmicroscopy.versioncontrol-utils"]
+	path = openmicroscopy.versioncontrol-utils
+	url = git://github.com/openmicroscopy/ansible-role-versioncontrol-utils
+	branch = master
